@@ -27,6 +27,14 @@ table, th, td {
     justify-content: center;
 }
 
+a {
+    color: red;
+}
+
+a:visited {
+    color: rgb(78, 7, 7);
+}
+
 /* .cell {
     display: flex;
     justify-content: center;
@@ -34,4 +42,9 @@ table, th, td {
 
 p {
     color: white;
+}
+
+.cell {
+    display: flex;
+    justify-content: center;
 }
