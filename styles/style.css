@@ -1,6 +1,7 @@
 body {
     background-image: url("/images/background1.gif");
     background-repeat: repeat;
+    background-attachment: fixed;
     /* background-color: black; */
     color: white;
     font-family: "Comic Sans MS", "Comic Sans", cursive;
@@ -75,4 +76,12 @@ footer div {
 
 .hide {
     display: none;
+}
+
+#react {
+    color: rgb(17, 188, 231);
+}
+
+#python {
+    color: rgb(132, 214, 132);
 }
