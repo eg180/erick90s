@@ -17,3 +17,21 @@ body {
     flex-direction:column;
     align-items: center;
 }
+
+table, th, td {
+    border: 1px solid white;
+  }
+
+.table {
+    display: flex;
+    justify-content: center;
+}
+
+/* .cell {
+    display: flex;
+    justify-content: center;
+} */
+
+p {
+    color: white;
+}
