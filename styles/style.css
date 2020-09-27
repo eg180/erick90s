@@ -18,6 +18,10 @@ body {
     align-items: center;
 }
 
+.border {
+    border: 5px solid rgb(255, 0, 0);
+  }
+
 table, th, td {
     border: 1px solid white;
   }
@@ -32,7 +36,7 @@ a {
 }
 
 a:visited {
-    color: rgb(78, 7, 7);
+    color: rgb(136, 9, 9);
 }
 
 /* .cell {
@@ -47,4 +51,28 @@ p {
 .cell {
     display: flex;
     justify-content: center;
+    padding: 2rem;
+}
+
+footer div {
+    margin-top: 5rem;
+    display: flex;
+    justify-content: center;
+}
+
+.dim-image {
+    filter: brightness(50%);
+}
+
+.aboutme {
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    margin: 15rem;
+    background-image: url("/images/matrixbackground.gif");
+}
+
+
+.hide {
+    display: none;
 }
