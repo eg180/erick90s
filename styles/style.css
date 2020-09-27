@@ -1,7 +1,7 @@
 body {
     background-image: url("/images/background1.gif");
     background-repeat: repeat;
-    background-color: black;
+    /* background-color: black; */
     color: white;
     font-family: "Comic Sans MS", "Comic Sans", cursive;
     font-size: 2rem;
