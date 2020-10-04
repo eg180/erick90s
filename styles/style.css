@@ -17,7 +17,12 @@ body {
 
 .card {
     display: flex;
+    background-color: white;
 }
+
+
+
+
 
 .erick-banner {
     color: rgb(36, 36, 34);
